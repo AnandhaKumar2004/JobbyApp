@@ -1,6 +1,6 @@
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 <br />
-🔗 [Click here to play the Emoji Game](https://jobbyappsak.ccbp.tech/jobs)
+🔗 [Click here to view the application](https://jobbyappsak.ccbp.tech/jobs)
 
 
 
